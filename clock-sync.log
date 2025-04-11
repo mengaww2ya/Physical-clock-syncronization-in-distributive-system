@@ -1,0 +1,820 @@
+2025-04-11 00:25:38.888 [main] INFO  com.clocksync.ClockSyncApp - Starting Clock Synchronization Application
+2025-04-11 00:25:39.094 [main] INFO  com.clocksync.Node - Node MasterNode (ID: 8528838a-0972-482c-9c7b-5b6f1f35e2ad) started with clock drift rate 0.9982575847671951
+2025-04-11 00:25:39.102 [main] INFO  com.clocksync.Node - Node Node1 (ID: bc780591-b2f8-4f71-9f0b-9bd8e2c9fb44) started with clock drift rate 0.983493186051785
+2025-04-11 00:25:39.105 [main] INFO  com.clocksync.Node - Node Node2 (ID: eb1eee0b-85a8-4da6-b660-4924b44d39a4) started with clock drift rate 1.0111793862524898
+2025-04-11 00:25:39.108 [main] INFO  com.clocksync.Node - Node Node3 (ID: 8bd5c42c-eb23-4703-a36f-954565096193) started with clock drift rate 0.9831164085781763
+2025-04-11 00:25:39.164 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:25:39.170 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:25:39.170 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:25:39.167 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:25:40.098 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:25:40.028Z
+2025-04-11 00:25:44.105 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:25:44.107 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:25:44.109 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:25:50.098 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:25:49.928Z
+2025-04-11 00:25:59.099 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:25:59.105 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:25:59.108 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:25:59.110 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:26:00.098 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:25:59.828Z
+2025-04-11 00:30:42.589 [main] INFO  com.clocksync.ClockSyncApp - Starting Clock Synchronization Application
+2025-04-11 00:30:42.681 [main] INFO  com.clocksync.Node - Node MasterNode (ID: 903f2539-9c0b-424f-8686-53ee963c281d) started with clock drift rate 1.0101309534841194
+2025-04-11 00:30:42.696 [main] INFO  com.clocksync.Node - Node Node1 (ID: c9ed4d86-4822-44e4-bf33-229c885c5729) started with clock drift rate 0.9851118521761422
+2025-04-11 00:30:42.704 [main] INFO  com.clocksync.Node - Node Node2 (ID: 5fd40cf5-a5a6-415f-aa3d-65c9a8f3e9c6) started with clock drift rate 1.0120101467694362
+2025-04-11 00:30:42.710 [main] INFO  com.clocksync.Node - Node Node3 (ID: 6fbb2d5b-7acf-4196-a97a-131fb247e9a4) started with clock drift rate 1.005847219773757
+2025-04-11 00:30:42.778 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:30:42.779 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:30:42.788 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:30:42.791 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:30:43.687 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:30:43.682Z
+2025-04-11 00:30:47.701 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:30:47.708 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:30:47.714 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:30:53.686 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:30:53.681Z
+2025-04-11 00:31:02.689 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:31:02.701 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:31:02.711 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:31:02.714 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:31:03.687 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:31:03.781Z
+2025-04-11 00:31:13.687 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:31:13.881Z
+2025-04-11 00:32:25.794 [main] INFO  com.clocksync.ClockSyncApp - Starting Clock Synchronization Application
+2025-04-11 00:32:25.905 [main] INFO  com.clocksync.Node - Node MasterNode (ID: 4a49cc46-cc0b-4f88-b75e-3502b11c884c) started with clock drift rate 1.0191136126474942
+2025-04-11 00:32:25.936 [main] INFO  com.clocksync.Node - Node Node1 (ID: c5f67c90-cb5a-4124-964f-44f5e99ec516) started with clock drift rate 0.9873206086745773
+2025-04-11 00:32:25.946 [main] INFO  com.clocksync.Node - Node Node2 (ID: 4876b6ba-40b3-4d81-963c-924e51816130) started with clock drift rate 0.99122547712372
+2025-04-11 00:32:25.960 [main] INFO  com.clocksync.Node - Node Node3 (ID: 309d2683-cc14-4203-8399-f4bed2eaf379) started with clock drift rate 1.004327318635098
+2025-04-11 00:32:26.032 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:32:26.030 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:32:26.033 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:32:26.032 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:32:26.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:32:26.894Z
+2025-04-11 00:32:30.942 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:32:30.952 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:32:30.965 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:32:36.912 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:32:36.994Z
+2025-04-11 00:32:45.915 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:32:45.944 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:32:45.955 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:32:45.970 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:32:46.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:32:46.993Z
+2025-04-11 00:32:56.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:32:57.093Z
+2025-04-11 00:33:00.942 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:33:00.952 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:33:00.965 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:33:05.915 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:33:05.944 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:33:05.955 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:33:05.971 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:33:06.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:33:07.193Z
+2025-04-11 00:33:16.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:33:17.293Z
+2025-04-11 00:33:25.915 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:33:25.943 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:33:25.956 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:33:25.969 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:33:26.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:33:27.393Z
+2025-04-11 00:33:30.942 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:33:30.952 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:33:30.965 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:33:36.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:33:37.392Z
+2025-04-11 00:33:45.915 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:33:45.944 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:33:45.955 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:33:45.969 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:33:46.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:33:47.492Z
+2025-04-11 00:33:56.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:33:57.592Z
+2025-04-11 00:34:00.942 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:34:00.952 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:34:00.965 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:34:05.915 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:34:05.944 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:34:05.955 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:34:05.969 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:34:06.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:34:07.692Z
+2025-04-11 00:34:16.912 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:34:17.792Z
+2025-04-11 00:34:25.915 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:34:25.944 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:34:25.955 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:34:25.969 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:34:26.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:34:27.791Z
+2025-04-11 00:34:30.942 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:34:30.952 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:34:30.965 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:34:36.912 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:34:37.891Z
+2025-04-11 00:34:45.915 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:34:45.944 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:34:45.955 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:34:45.969 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:34:46.912 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:34:47.991Z
+2025-04-11 00:34:56.912 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:34:58.091Z
+2025-04-11 00:35:00.942 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:35:00.952 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:35:00.965 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:35:05.915 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:35:05.944 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:35:05.955 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:35:05.970 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:35:06.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:35:08.191Z
+2025-04-11 00:35:16.912 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:35:18.190Z
+2025-04-11 00:35:25.915 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:35:25.944 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:35:25.955 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:35:25.970 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:35:26.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:35:28.290Z
+2025-04-11 00:35:30.942 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:35:30.952 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:35:30.965 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:35:36.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:35:38.390Z
+2025-04-11 00:35:45.915 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:35:45.944 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:35:45.955 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:35:45.969 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:35:46.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:35:48.490Z
+2025-04-11 00:35:56.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:35:58.590Z
+2025-04-11 00:36:00.942 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:36:00.952 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:36:00.965 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:36:05.915 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:36:05.944 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:36:05.955 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:36:05.969 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:36:06.912 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:36:08.589Z
+2025-04-11 00:36:16.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:36:18.689Z
+2025-04-11 00:36:25.915 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:36:25.944 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:36:25.956 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:36:25.969 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:36:26.912 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:36:28.789Z
+2025-04-11 00:36:30.942 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:36:30.952 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:36:30.965 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:36:36.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:36:38.889Z
+2025-04-11 00:36:45.914 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:36:45.944 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:36:45.955 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:36:45.970 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:36:46.912 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:36:48.888Z
+2025-04-11 00:36:56.913 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:36:58.988Z
+2025-04-11 00:38:58.366 [main] INFO  com.clocksync.ClockSyncApp - Starting Clock Synchronization Application
+2025-04-11 00:38:58.473 [main] INFO  com.clocksync.Node - Node MasterNode (ID: 979a998f-60f8-477e-8492-0dd279bf169a) started with clock drift rate 1.007802411411744
+2025-04-11 00:38:58.488 [main] INFO  com.clocksync.Node - Node Node1-Fast (ID: d6f25506-6357-457f-82a9-72ce9a9346e8) started with clock drift rate 1.0197277764762844
+2025-04-11 00:38:58.492 [main] INFO  com.clocksync.Node - Node Node2-Normal (ID: c09515c2-4acc-4637-bfbb-563c9221b945) started with clock drift rate 1.0020772938362599
+2025-04-11 00:38:58.500 [main] INFO  com.clocksync.Node - Node Node3-Slow (ID: c259011e-b701-495f-afd6-0ba5bddde38a) started with clock drift rate 1.001929296355821
+2025-04-11 00:38:58.538 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:38:58.540 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:38:58.540 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:38:58.539 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:38:59.482 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:38:59.459Z
+2025-04-11 00:39:03.491 [pool-2-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:39:03.495 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:39:03.505 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:39:09.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:39:09.359Z
+2025-04-11 00:39:18.483 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:39:18.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:39:18.495 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:39:18.507 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:39:19.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:39:19.359Z
+2025-04-11 00:39:29.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:39:29.359Z
+2025-04-11 00:39:33.491 [pool-2-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:39:33.494 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:39:33.506 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:39:38.483 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:39:38.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:39:38.495 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:39:38.506 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:39:39.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:39:39.359Z
+2025-04-11 00:39:49.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:39:49.359Z
+2025-04-11 00:39:58.483 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:39:58.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:39:58.495 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:39:58.506 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:39:59.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:39:59.359Z
+2025-04-11 00:40:03.490 [pool-2-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:40:03.495 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:40:03.505 [pool-4-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:40:09.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:40:09.259Z
+2025-04-11 00:40:18.483 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:40:18.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:40:18.495 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:40:18.506 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:40:19.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:40:19.259Z
+2025-04-11 00:40:29.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:40:29.259Z
+2025-04-11 00:40:33.490 [pool-2-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:40:33.494 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:40:33.505 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:40:38.483 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:40:38.494 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:40:38.495 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:40:38.506 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:40:39.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:40:39.259Z
+2025-04-11 00:40:49.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:40:49.259Z
+2025-04-11 00:40:58.483 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:40:58.492 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:40:58.495 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:40:58.507 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:40:59.482 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:40:59.159Z
+2025-04-11 00:41:03.490 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:41:03.495 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:41:03.505 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:41:09.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:41:09.159Z
+2025-04-11 00:41:18.483 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:41:18.492 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:41:18.495 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:41:18.506 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:41:19.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:41:19.159Z
+2025-04-11 00:41:29.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:41:29.159Z
+2025-04-11 00:41:33.490 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:41:33.494 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:41:33.506 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:41:38.483 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:41:38.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:41:38.495 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:41:38.506 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:41:39.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:41:39.159Z
+2025-04-11 00:41:49.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:41:49.059Z
+2025-04-11 00:41:58.483 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:41:58.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:41:58.495 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:41:58.506 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:41:59.482 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:41:59.059Z
+2025-04-11 00:42:03.490 [pool-2-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:42:03.494 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:42:03.506 [pool-4-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:42:09.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:42:09.059Z
+2025-04-11 00:42:18.483 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:42:18.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:42:18.495 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:42:18.506 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:42:19.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:42:19.059Z
+2025-04-11 00:42:29.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:42:29.059Z
+2025-04-11 00:42:33.490 [pool-2-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:42:33.495 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:42:33.505 [pool-4-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:42:38.483 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:42:38.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:42:38.495 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:42:38.506 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:42:39.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:42:38.959Z
+2025-04-11 00:42:49.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:42:48.959Z
+2025-04-11 00:42:58.483 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:42:58.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:42:58.495 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:42:58.506 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:42:59.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:42:58.959Z
+2025-04-11 00:43:03.490 [pool-2-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:43:03.494 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:43:03.506 [pool-4-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:43:09.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:43:08.959Z
+2025-04-11 00:43:18.483 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:43:18.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:43:18.495 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:43:18.506 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:43:19.481 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:43:18.959Z
+2025-04-11 00:43:29.481 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:43:28.959Z
+2025-04-11 00:43:33.490 [pool-2-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:43:33.494 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:43:33.505 [pool-4-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:43:38.483 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:43:38.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:43:38.495 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:43:38.506 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:43:39.481 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:43:38.859Z
+2025-04-11 00:43:49.481 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:43:48.859Z
+2025-04-11 00:43:58.483 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:43:58.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:43:58.495 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:43:58.506 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:43:59.481 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:43:58.859Z
+2025-04-11 00:44:03.490 [pool-2-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:44:03.494 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:44:03.505 [pool-4-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:44:09.481 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:44:08.859Z
+2025-04-11 00:44:18.483 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:44:18.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:44:18.495 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:44:18.506 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:44:19.481 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:44:18.859Z
+2025-04-11 00:44:29.481 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:44:28.759Z
+2025-04-11 00:44:33.490 [pool-2-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:44:33.494 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:44:33.505 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:44:38.483 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:44:38.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:44:38.495 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:44:38.506 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:44:39.481 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:44:38.759Z
+2025-04-11 00:44:49.481 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:44:48.759Z
+2025-04-11 00:44:58.483 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:44:58.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:44:58.495 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:44:58.507 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:44:59.481 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:44:58.759Z
+2025-04-11 00:45:03.490 [pool-2-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:45:03.494 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:45:03.505 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:45:09.481 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:45:08.759Z
+2025-04-11 00:45:18.483 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:45:18.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:45:18.495 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:45:18.506 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:45:19.481 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:45:18.759Z
+2025-04-11 00:45:29.481 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:45:28.659Z
+2025-04-11 00:45:33.491 [pool-2-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:45:33.494 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:45:33.505 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:45:38.483 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:45:38.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:45:38.495 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:45:38.506 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:45:39.481 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:45:38.659Z
+2025-04-11 00:45:49.481 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:45:48.659Z
+2025-04-11 00:45:58.483 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:45:58.492 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:45:58.497 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:45:58.506 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:45:59.481 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:45:58.659Z
+2025-04-11 00:46:03.490 [pool-2-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:46:03.494 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:46:03.505 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:46:35.889 [main] INFO  com.clocksync.ClockSyncApp - Starting Clock Synchronization Application
+2025-04-11 00:46:35.986 [main] INFO  com.clocksync.Node - Node MasterNode (ID: 72efa800-fa44-412c-896d-b848bdf2ebae) started with clock drift rate 1.0053397945855655
+2025-04-11 00:46:35.995 [main] INFO  com.clocksync.Node - Node Node1-Fast (ID: b144f0ec-f88c-4d7a-9ddc-aee520c5f29f) started with clock drift rate 0.9807509604297363
+2025-04-11 00:46:35.998 [main] INFO  com.clocksync.Node - Node Node2-Normal (ID: 06f600f6-9123-45bd-a759-3e0a7b48de3f) started with clock drift rate 1.0008113385525048
+2025-04-11 00:46:36.003 [main] INFO  com.clocksync.Node - Node Node3-Slow (ID: 2cc1eca2-9df7-4e9f-825e-2f555afb87bf) started with clock drift rate 1.0057682202848663
+2025-04-11 00:46:36.029 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:46:36.029 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:46:36.031 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:46:36.031 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:46:36.991 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:46:36.940Z
+2025-04-11 00:46:40.996 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:46:40.999 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:46:41.004 [pool-4-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:46:46.991 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:46:46.940Z
+2025-04-11 00:46:55.992 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:46:55.997 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:46:56.002 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:46:56.006 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:46:56.991 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:46:56.940Z
+2025-04-11 00:47:06.991 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:47:06.840Z
+2025-04-11 00:47:10.996 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:47:10.999 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:47:11.004 [pool-4-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:47:15.993 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:47:15.997 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:47:16.002 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:47:16.006 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:47:16.991 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:47:16.840Z
+2025-04-11 00:47:26.991 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:47:26.840Z
+2025-04-11 00:47:35.992 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:47:35.997 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:47:36.002 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:47:36.006 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:47:36.991 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:47:36.840Z
+2025-04-11 00:47:40.997 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:47:40.999 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:47:41.005 [pool-4-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:47:46.991 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:47:46.840Z
+2025-04-11 00:47:55.992 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:47:55.996 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:47:56.003 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:47:56.007 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:47:56.993 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:47:56.840Z
+2025-04-11 00:48:04.294 [main] INFO  com.clocksync.ClockSyncApp - Starting Clock Synchronization Application
+2025-04-11 00:48:04.376 [main] INFO  com.clocksync.Node - Node MasterNode (ID: 5445573a-e3fd-4cb7-a5f3-e83411d0378d) started with clock drift rate 1.0023899753038175
+2025-04-11 00:48:04.386 [main] INFO  com.clocksync.Node - Node Node1-Fast (ID: dd4385ff-d549-476f-baa0-16e46eb08435) started with clock drift rate 0.9922288926761966
+2025-04-11 00:48:04.393 [main] INFO  com.clocksync.Node - Node Node2-Normal (ID: c84cf1fd-3e34-4538-9ba1-cc0a16230f62) started with clock drift rate 0.9967483955071036
+2025-04-11 00:48:04.401 [main] INFO  com.clocksync.Node - Node Node3-Slow (ID: 331cec13-51f9-4de7-9b33-2e68ebc507d5) started with clock drift rate 0.9884642112271573
+2025-04-11 00:48:04.468 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:04.459 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:04.458 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:04.470 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:05.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:48:05.368Z
+2025-04-11 00:48:06.991 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:48:06.740Z
+2025-04-11 00:48:09.390 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:48:09.396 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:48:09.406 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:48:10.997 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:48:10.999 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:48:11.005 [pool-4-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:48:15.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:48:15.268Z
+2025-04-11 00:48:15.993 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:15.997 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:16.002 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:16.006 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:16.991 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:48:16.740Z
+2025-04-11 00:48:24.383 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:24.391 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:24.397 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:24.406 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:25.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:48:25.268Z
+2025-04-11 00:48:26.991 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:48:26.740Z
+2025-04-11 00:48:35.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:48:35.268Z
+2025-04-11 00:48:35.992 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:35.997 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:36.003 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:36.006 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:36.991 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:48:36.740Z
+2025-04-11 00:48:39.389 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:48:39.396 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:48:39.407 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:48:40.996 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:48:40.999 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:48:41.004 [pool-4-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:48:44.383 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:44.391 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:44.397 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:44.406 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:48:45.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:48:45.268Z
+2025-04-11 00:48:46.991 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:48:46.740Z
+2025-04-11 00:48:55.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:48:55.268Z
+2025-04-11 00:49:04.383 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:49:04.391 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:49:04.397 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:49:04.406 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:49:05.383 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:49:05.268Z
+2025-04-11 00:49:09.389 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:49:09.397 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:49:09.406 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:49:15.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:49:15.168Z
+2025-04-11 00:49:24.383 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:49:24.391 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:49:24.397 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:49:24.406 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:49:25.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:49:25.168Z
+2025-04-11 00:49:35.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:49:35.168Z
+2025-04-11 00:49:39.389 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:49:39.397 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:49:39.406 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:49:44.383 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:49:44.391 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:49:44.397 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:49:44.406 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:49:45.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:49:45.168Z
+2025-04-11 00:49:55.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:49:55.168Z
+2025-04-11 00:50:04.383 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:50:04.391 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:50:04.397 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:50:04.406 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:50:05.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:50:05.068Z
+2025-04-11 00:50:09.390 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:50:09.396 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:50:09.406 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:50:15.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:50:15.068Z
+2025-04-11 00:50:24.383 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:50:24.391 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:50:24.397 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:50:24.406 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:50:25.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:50:25.068Z
+2025-04-11 00:50:35.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:50:35.068Z
+2025-04-11 00:50:39.390 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:50:39.396 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:50:39.406 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:50:44.383 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:50:44.391 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:50:44.397 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:50:44.406 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:50:45.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:50:45.068Z
+2025-04-11 00:50:55.382 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:50:55.068Z
+2025-04-11 00:51:23.111 [main] INFO  com.clocksync.ClockSyncApp - Starting Clock Synchronization Application
+2025-04-11 00:51:23.256 [main] INFO  com.clocksync.Node - Node MasterNode (ID: 8fe28211-6822-49e8-bd58-a3013b942527) started with clock drift rate 0.99829359030535
+2025-04-11 00:51:23.263 [main] INFO  com.clocksync.Node - Node Node1-Fast (ID: 423a512c-d625-4aec-9668-d5482ca331d8) started with clock drift rate 1.0043203550335513
+2025-04-11 00:51:23.271 [main] INFO  com.clocksync.Node - Node Node2-Normal (ID: 07fa7461-4b7c-41c3-8db1-bb0e9ec66a12) started with clock drift rate 0.9959151935782018
+2025-04-11 00:51:23.277 [main] INFO  com.clocksync.Node - Node Node3-Slow (ID: ebce8bca-8e35-43ba-9c05-761180c30b19) started with clock drift rate 1.015286771043318
+2025-04-11 00:51:23.297 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:51:23.297 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:51:23.304 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:51:23.300 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:51:24.261 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:51:24.212Z
+2025-04-11 00:51:28.271 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:51:28.276 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:51:28.280 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:51:34.261 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:51:34.112Z
+2025-04-11 00:51:43.262 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:51:43.271 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:51:43.277 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:51:43.282 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:51:44.262 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:51:43.913Z
+2025-04-11 00:51:54.261 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:51:53.813Z
+2025-04-11 00:51:58.270 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:51:58.276 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:51:58.280 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:52:03.262 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:52:03.271 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:52:03.277 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:52:03.282 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:52:04.261 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:52:03.713Z
+2025-04-11 00:54:24.158 [main] INFO  com.clocksync.ClockSyncApp - Starting Clock Synchronization Application
+2025-04-11 00:54:24.229 [main] INFO  com.clocksync.Node - Node MasterNode (ID: d85d8777-bb9b-42c9-88ea-18352e682af7) started with clock drift rate 0.985497747354556
+2025-04-11 00:54:24.241 [main] INFO  com.clocksync.Node - Node Node1-Fast (ID: e372752d-faf9-43fb-82fb-01c9657b1f99) started with clock drift rate 0.9885208703398527
+2025-04-11 00:54:24.250 [main] INFO  com.clocksync.Node - Node Node2-Normal (ID: 43700778-044e-4f2a-b0bf-6cab7d0630e1) started with clock drift rate 0.9992130278919714
+2025-04-11 00:54:24.257 [main] INFO  com.clocksync.Node - Node Node3-Slow (ID: 4b9db0fe-1d73-4ece-b9c6-2dd2eb3d78dc) started with clock drift rate 1.0121132929966548
+2025-04-11 00:54:24.286 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:54:24.289 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:54:24.287 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:54:24.285 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:54:25.234 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:54:25.200Z
+2025-04-11 00:54:29.245 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:54:29.253 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:54:29.258 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:54:35.234 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:54:34.902Z
+2025-04-11 00:54:44.235 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:54:44.246 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:54:44.255 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:54:44.259 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:54:45.234 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:54:44.702Z
+2025-04-11 00:54:55.234 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:54:54.502Z
+2025-04-11 00:54:59.245 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:54:59.253 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:54:59.259 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:55:30.065 [main] INFO  com.clocksync.ClockSyncApp - Starting Clock Synchronization Application
+2025-04-11 00:55:30.169 [main] INFO  com.clocksync.Node - Node MasterNode (ID: 8d340d16-a33d-4a75-8e76-a02877365c02) started with clock drift rate 0.9921507892627186
+2025-04-11 00:55:30.178 [main] INFO  com.clocksync.Node - Node Node1-Fast (ID: 7d18dcba-67ea-46fd-abf9-eba27db044de) started with clock drift rate 0.9944184275199567
+2025-04-11 00:55:30.188 [main] INFO  com.clocksync.Node - Node Node2-Normal (ID: 21223d85-bd43-4a6b-b337-2eb4b4dfb7c5) started with clock drift rate 1.0172321430167364
+2025-04-11 00:55:30.193 [main] INFO  com.clocksync.Node - Node Node3-Slow (ID: 1234002b-a0b5-478f-b615-0c6ecca218c2) started with clock drift rate 1.0170649438449033
+2025-04-11 00:55:30.230 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:55:30.227 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:55:30.220 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:55:30.240 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:55:31.175 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:55:31.141Z
+2025-04-11 00:55:35.184 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:55:35.191 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:55:35.197 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:55:41.175 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:55:41.041Z
+2025-04-11 00:55:50.176 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:55:50.185 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:55:50.193 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:55:50.198 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:55:51.175 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:55:50.842Z
+2025-04-11 00:56:00.053 [main] INFO  com.clocksync.ClockSyncApp - Starting Clock Synchronization Application
+2025-04-11 00:56:00.188 [main] INFO  com.clocksync.Node - Node MasterNode (ID: a292e441-e2cc-4b66-a83e-3b735061ae42) started with clock drift rate 1.0084685208503819
+2025-04-11 00:56:00.207 [main] INFO  com.clocksync.Node - Node Node1-Fast (ID: e51c92c6-d3b3-403b-89d2-fa1251e680fa) started with clock drift rate 1.0039529002608414
+2025-04-11 00:56:00.212 [main] INFO  com.clocksync.Node - Node Node2-Normal (ID: a181cac6-9efd-4e87-b38e-41ce4bf4bb99) started with clock drift rate 1.012174086201488
+2025-04-11 00:56:00.218 [main] INFO  com.clocksync.Node - Node Node3-Slow (ID: 2d40a1da-ef31-404f-a48c-552c891799b1) started with clock drift rate 0.9831266838248571
+2025-04-11 00:56:00.259 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:56:00.259 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:56:00.260 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:56:00.261 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:56:01.198 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:56:01.169Z
+2025-04-11 00:56:05.209 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:56:05.215 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:56:05.221 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:56:11.196 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:56:11.169Z
+2025-04-11 00:56:20.199 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:56:20.210 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:56:20.215 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:56:20.221 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:56:21.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:56:21.069Z
+2025-04-11 00:56:31.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:56:31.069Z
+2025-04-11 00:56:35.210 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:56:35.215 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:56:35.220 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:56:40.200 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:56:40.210 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:56:40.215 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:56:40.221 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:56:41.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:56:41.069Z
+2025-04-11 00:56:51.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:56:51.069Z
+2025-04-11 00:57:00.200 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:57:00.210 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:57:00.216 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:57:00.221 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:57:01.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:57:01.069Z
+2025-04-11 00:57:05.210 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:57:05.215 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:57:05.220 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:57:11.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:57:10.969Z
+2025-04-11 00:57:20.200 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:57:20.210 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:57:20.215 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:57:20.221 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:57:21.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:57:20.969Z
+2025-04-11 00:57:31.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:57:30.969Z
+2025-04-11 00:57:35.209 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:57:35.215 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:57:35.220 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:57:40.199 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:57:40.210 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:57:40.215 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:57:40.221 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:57:41.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:57:40.969Z
+2025-04-11 00:57:51.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:57:50.969Z
+2025-04-11 00:58:00.199 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:58:00.210 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:58:00.215 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:58:00.220 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:58:01.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:58:00.969Z
+2025-04-11 00:58:05.209 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:58:05.215 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:58:05.220 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:58:11.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:58:10.869Z
+2025-04-11 00:58:20.199 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:58:20.210 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:58:20.215 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:58:20.221 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:58:21.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:58:20.869Z
+2025-04-11 00:58:31.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:58:30.869Z
+2025-04-11 00:58:35.210 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:58:35.215 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:58:35.220 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:58:40.199 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:58:40.210 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:58:40.215 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:58:40.221 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:58:41.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:58:40.869Z
+2025-04-11 00:58:51.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:58:50.869Z
+2025-04-11 00:59:00.199 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:59:00.210 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:59:00.215 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:59:00.220 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:59:01.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:59:00.769Z
+2025-04-11 00:59:05.209 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:59:05.215 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:59:05.220 [pool-4-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:59:11.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:59:10.769Z
+2025-04-11 00:59:20.199 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:59:20.210 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:59:20.215 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:59:20.221 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:59:21.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:59:20.769Z
+2025-04-11 00:59:31.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:59:30.769Z
+2025-04-11 00:59:35.210 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:59:35.215 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:59:35.220 [pool-4-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 00:59:40.199 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:59:40.210 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:59:40.215 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:59:40.221 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 00:59:41.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:59:40.769Z
+2025-04-11 00:59:51.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T21:59:50.669Z
+2025-04-11 01:00:00.199 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:00:00.210 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:00:00.217 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:00:00.221 [pool-4-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:00:01.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:00:00.669Z
+2025-04-11 01:00:05.209 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:00:05.215 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:00:05.220 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:00:11.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:00:10.669Z
+2025-04-11 01:00:20.199 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:00:20.210 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:00:20.215 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:00:20.221 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:00:21.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:00:20.669Z
+2025-04-11 01:00:31.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:00:30.669Z
+2025-04-11 01:00:35.209 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:00:35.215 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:00:35.220 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:00:40.199 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:00:40.210 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:00:40.216 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:00:40.221 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:00:41.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:00:40.669Z
+2025-04-11 01:00:51.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:00:50.569Z
+2025-04-11 01:01:00.199 [pool-1-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:01:00.210 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:01:00.215 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:01:00.220 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:01:01.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:01:00.569Z
+2025-04-11 01:01:05.209 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:01:05.215 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:01:05.220 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:01:11.197 [pool-1-thread-1] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:01:10.569Z
+2025-04-11 01:01:37.817 [main] INFO  com.clocksync.ClockSyncApp - Starting Clock Synchronization Application
+2025-04-11 01:01:37.951 [main] INFO  com.clocksync.Node - Node MasterNode (ID: 498b41fd-af8c-45b2-ac2e-7fcf2b8d114c) started with clock drift rate 1.0083240987375732
+2025-04-11 01:01:37.983 [main] INFO  com.clocksync.Node - Node Node1-Fast (ID: 8c065ad7-2c7e-455c-a430-c81fad9c425b) started with clock drift rate 0.980675144171997
+2025-04-11 01:01:38.002 [main] INFO  com.clocksync.Node - Node Node2-Normal (ID: 26610080-ee81-44a3-a794-ed6121ae6f03) started with clock drift rate 1.015465611308489
+2025-04-11 01:01:38.016 [main] INFO  com.clocksync.Node - Node Node3-Slow (ID: d2e4654e-200d-40ac-938d-0ea04b25095a) started with clock drift rate 0.9955390257337986
+2025-04-11 01:01:38.064 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:01:38.064 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:01:38.064 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:01:38.065 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:01:38.966 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:01:38.933Z
+2025-04-11 01:01:42.990 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:01:43.006 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:01:43.019 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:01:48.965 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:01:48.933Z
+2025-04-11 01:02:00.301 [main] INFO  com.clocksync.ClockSyncApp - Starting Clock Synchronization Application
+2025-04-11 01:02:00.419 [main] INFO  com.clocksync.Node - Node MasterNode (ID: 337df39d-f81b-4a73-b85f-305ef1b58d25) started with clock drift rate 1.0177447751346933
+2025-04-11 01:02:00.439 [main] INFO  com.clocksync.Node - Node Node1-Fast (ID: 5a0540ab-4a41-4d28-8d81-59e06fe4708b) started with clock drift rate 0.9917601159435694
+2025-04-11 01:02:00.447 [main] INFO  com.clocksync.Node - Node Node2-Normal (ID: f21ecb4d-f169-4395-a933-a7eea5b07e00) started with clock drift rate 0.9995419950621557
+2025-04-11 01:02:00.455 [main] INFO  com.clocksync.Node - Node Node3-Slow (ID: e0252107-f97c-47df-9f84-75905cdfcad9) started with clock drift rate 0.9996205084285129
+2025-04-11 01:02:00.504 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:02:00.504 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:02:00.503 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:02:00.502 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:02:01.438 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:02:01.410Z
+2025-04-11 01:02:05.445 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:02:05.451 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:02:05.460 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:02:11.436 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:02:11.510Z
+2025-04-11 01:02:20.436 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:02:20.445 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:02:20.454 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:02:20.460 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:02:21.435 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:02:21.509Z
+2025-04-11 01:02:31.436 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:02:31.609Z
+2025-04-11 01:02:35.445 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:02:35.451 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:02:35.461 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:02:40.437 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:02:40.446 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:02:40.453 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:02:40.460 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:02:41.435 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:02:41.709Z
+2025-04-11 01:02:51.435 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:02:51.809Z
+2025-04-11 01:03:00.436 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:03:00.445 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:03:00.453 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:03:00.461 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:03:01.435 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:03:01.808Z
+2025-04-11 01:03:05.445 [pool-2-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:03:05.451 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:03:05.460 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:03:11.436 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:03:11.908Z
+2025-04-11 01:03:20.436 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:03:20.445 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:03:20.454 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:03:20.460 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:03:21.436 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:03:22.008Z
+2025-04-11 01:03:31.435 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:03:32.108Z
+2025-04-11 01:03:35.445 [pool-2-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:03:35.451 [pool-3-thread-1] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:03:35.460 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:03:40.436 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:03:40.445 [pool-2-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:03:40.454 [pool-3-thread-2] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:03:40.460 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:03:41.435 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:03:42.107Z
+2025-04-11 01:03:51.435 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:03:52.207Z
+2025-04-11 01:04:16.832 [main] INFO  com.clocksync.ClockSyncApp - Starting Clock Synchronization Application
+2025-04-11 01:04:16.999 [main] INFO  com.clocksync.Node - Node MasterNode (ID: ac03a566-0857-40cd-bbc8-af9b67ce3379) started with clock drift rate 1.0110361272400128
+2025-04-11 01:04:17.032 [main] INFO  com.clocksync.Node - Node Node1-Fast (ID: 35e32637-97f2-44ce-892b-1b1ffc539403) started with clock drift rate 1.005425585484447
+2025-04-11 01:04:17.039 [main] INFO  com.clocksync.Node - Node Node2-Normal (ID: ac62dd68-8406-4752-8948-381cd5eb3ac5) started with clock drift rate 0.9896597238006631
+2025-04-11 01:04:17.048 [main] INFO  com.clocksync.Node - Node Node3-Slow (ID: f28d0564-fcd6-4326-8db0-3b7b82183ab2) started with clock drift rate 1.0038453711331718
+2025-04-11 01:04:17.116 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:04:17.120 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:04:17.116 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:04:17.119 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:04:18.014 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:04:17.990Z
+2025-04-11 01:04:22.036 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:04:22.043 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:04:22.053 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:04:28.014 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:04:28.090Z
+2025-04-11 01:04:37.024 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:04:37.037 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:04:37.044 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:04:37.053 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:04:38.015 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:04:38.089Z
+2025-04-11 01:10:16.729 [main] INFO  com.clocksync.ClockSyncApp - Starting Clock Synchronization Application
+2025-04-11 01:10:16.842 [main] INFO  com.clocksync.Node - Node MasterNode (ID: 14e035ef-a7b7-42cc-b4c7-f38261ad9305) started with clock drift rate 1.0077274342868796
+2025-04-11 01:10:16.854 [main] INFO  com.clocksync.Node - Node Node1-Fast (ID: 6a91278f-e0bb-41a8-8877-b09db029017c) started with clock drift rate 1.0121371184851518
+2025-04-11 01:10:16.857 [main] INFO  com.clocksync.Node - Node Node2-Normal (ID: 22c663ee-b3c2-43fc-958d-40e0e07d888a) started with clock drift rate 1.0030059762432997
+2025-04-11 01:10:16.862 [main] INFO  com.clocksync.Node - Node Node3-Slow (ID: cb351341-7831-4bcc-9154-c77c65fa4e7e) started with clock drift rate 1.0091585055024892
+2025-04-11 01:10:16.890 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:10:16.896 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:10:16.895 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:10:16.892 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:10:17.848 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:10:17.833Z
+2025-04-11 01:10:21.856 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:10:21.858 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:10:21.865 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:19:22.830 [main] INFO  com.clocksync.ClockSyncApp - Starting Clock Synchronization Application
+2025-04-11 01:19:22.930 [main] INFO  com.clocksync.Node - Node MasterNode (ID: 4293c0e2-d889-414a-838b-8f666ba39897) started with clock drift rate 0.9824802956877011
+2025-04-11 01:19:22.943 [main] INFO  com.clocksync.Node - Node Node1-Fast (ID: 0b7318ce-5e6f-4d10-bbec-8c94fbbeac85) started with clock drift rate 1.004823716990576
+2025-04-11 01:19:22.953 [main] INFO  com.clocksync.Node - Node Node2-Normal (ID: f3c0d555-d41d-4f02-b467-f53d856c437c) started with clock drift rate 0.9982351123429127
+2025-04-11 01:19:22.966 [main] INFO  com.clocksync.Node - Node Node3-Slow (ID: ceca4c1a-c8ad-46be-8e43-c1689c3cf891) started with clock drift rate 1.0060956777151147
+2025-04-11 01:19:23.026 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:19:23.028 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:19:23.027 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:19:23.031 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:19:23.938 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:19:23.890Z
+2025-04-11 01:19:27.945 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:19:27.956 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:19:27.969 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:19:33.938 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:19:33.690Z
+2025-04-11 01:19:42.940 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:19:42.946 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:19:42.959 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:19:42.970 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:19:43.940 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:19:43.392Z
+2025-04-11 01:19:53.939 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:19:53.192Z
+2025-04-11 01:19:57.945 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:19:57.957 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:19:57.970 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:20:02.940 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:20:02.946 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:20:02.959 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:20:02.971 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:20:03.938 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:20:02.992Z
+2025-04-11 01:20:13.938 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:20:12.792Z
+2025-04-11 01:20:20.394 [main] INFO  com.clocksync.ClockSyncApp - Starting Clock Synchronization Application
+2025-04-11 01:20:20.526 [main] INFO  com.clocksync.Node - Node MasterNode (ID: cfc247ae-813c-403a-92f4-7c4f4f4ac368) started with clock drift rate 1.0124134178147373
+2025-04-11 01:20:20.553 [main] INFO  com.clocksync.Node - Node Node1-Fast (ID: bd25528b-b1b6-4ac3-a1de-c9d904f974fb) started with clock drift rate 1.0094105422567923
+2025-04-11 01:20:20.558 [main] INFO  com.clocksync.Node - Node Node2-Normal (ID: 38aba0d2-7f59-4b7a-b78f-a1440bddc6bb) started with clock drift rate 0.9928033739916748
+2025-04-11 01:20:20.573 [main] INFO  com.clocksync.Node - Node Node3-Slow (ID: 8b2d8197-c9ce-45ba-baf1-5c122932c522) started with clock drift rate 0.9961071802577872
+2025-04-11 01:20:20.646 [pool-3-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:20:20.645 [pool-2-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:20:20.651 [pool-1-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:20:20.650 [pool-4-thread-1] DEBUG com.clocksync.Node - Performed discovery, known nodes: 0
+2025-04-11 01:20:21.537 [pool-1-thread-2] DEBUG com.clocksync.Node - Announced master time: 2025-04-10T22:20:21.515Z
+2025-04-11 01:20:25.556 [pool-2-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:20:25.563 [pool-3-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request
+2025-04-11 01:20:25.575 [pool-4-thread-2] DEBUG com.clocksync.Node - Sent time synchronization request

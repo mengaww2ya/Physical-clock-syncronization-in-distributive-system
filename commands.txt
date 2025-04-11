@@ -1,0 +1,40 @@
+==================================================================
+CLOCK SYNCHRONIZATION SYSTEM - COMMAND REFERENCE
+==================================================================
+
+BASIC COMMANDS:
+--------------
+help         - Display this help message
+list         - List all clocks in the system
+time         - Show current time on all clocks
+sync <idx>   - Synchronize the clock at index <idx> using current algorithm
+monitor <s>  - Monitor clock times for s seconds (observe drift)
+
+ALGORITHM COMMANDS:
+-----------------
+algorithm         - Show available synchronization algorithms
+algorithm 1       - Switch to Cristian's Algorithm
+algorithm 2       - Switch to Berkeley Algorithm  
+algorithm 3       - Switch to NTP-like Algorithm
+
+SYSTEM COMMANDS:
+--------------
+exit / quit       - Exit the application
+
+EXAMPLE USAGE SEQUENCE:
+---------------------
+1. help                   (show available commands)
+2. list                   (see all clocks)
+3. time                   (check current times)
+4. monitor 10             (observe drift for 10 seconds)
+5. sync 2                 (synchronize the Fast Clock)
+6. time                   (verify synchronization)
+7. algorithm 2            (switch to Berkeley Algorithm)
+8. sync 4                 (synchronize with Berkeley)
+9. algorithm 3            (switch to NTP Algorithm)
+10. sync 2                (synchronize with NTP)
+11. exit                  (quit the application)
+
+==================================================================
+NOTE: Always run commands at the ">" prompt in the application
+================================================================== 

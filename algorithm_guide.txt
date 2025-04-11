@@ -1,0 +1,93 @@
+==================================================================
+CLOCK SYNCHRONIZATION ALGORITHMS - COMPARATIVE GUIDE
+==================================================================
+
+This simulation implements three fundamental clock synchronization 
+algorithms used in distributed systems. Each has specific strengths
+and use cases.
+
+1. CRISTIAN'S ALGORITHM
+----------------------
+Description: A simple master-slave synchronization approach.
+
+How it works:
+- Client sends a time request to a time server (master)
+- Server responds with its current time (T)
+- Client adjusts for network latency by adding RTT/2
+- Final formula: client_time = server_time + (RTT/2)
+
+Strengths:
+- Simple implementation
+- Low overhead (single request/response)
+- Good for hierarchical systems
+
+Weaknesses:
+- Single point of failure (master)
+- Accuracy depends on symmetric network delay
+- Cannot detect faulty clocks
+
+Best for: Client-server systems with reliable master time sources.
+
+
+2. BERKELEY ALGORITHM
+-------------------
+Description: A democratic, fault-tolerant synchronization approach.
+
+How it works:
+- A coordinator collects time from all nodes
+- Calculates the average time from all responses
+- Sends adjustment values to each node
+- All nodes (including master) adjust their clocks
+
+Strengths:
+- No single point of failure
+- Does not need an accurate external time source
+- More fault-tolerant than Cristian's algorithm
+- All clocks converge to a common time
+
+Weaknesses:
+- Higher message complexity
+- Faulty clocks can skew the average
+- Requires more coordination
+
+Best for: Peer systems where no single node has authoritative time.
+
+
+3. NTP-LIKE ALGORITHM
+-------------------
+Description: Enhanced precision synchronization using statistical techniques.
+
+How it works:
+- Client takes multiple time samples from server
+- Calculates round-trip time for each sample
+- Selects the sample with the lowest round-trip time
+- Applies filtering and statistical analysis
+- Uses best sample for synchronization
+
+Strengths:
+- Highest precision of the three algorithms
+- More resilient to variable network conditions
+- Handles asymmetric network delays better
+- Used in real-world internet time synchronization
+
+Weaknesses:
+- Higher complexity
+- More resource-intensive
+- More network traffic
+
+Best for: Systems requiring high precision time synchronization.
+
+==================================================================
+USAGE COMPARISON
+==================================================================
+
+To compare the algorithms:
+
+1. Run the simulation with each algorithm
+2. Use the same clock for synchronization (e.g., sync 2)
+3. Compare the final time difference after synchronization
+4. Note how Berkeley adjusts all clocks, not just the target
+5. Observe how NTP-like takes multiple samples
+6. Monitor drift after each synchronization
+
+================================================================== 
